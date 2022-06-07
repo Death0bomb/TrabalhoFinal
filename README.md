@@ -1,2 +1,0 @@
-# TrabalhoFinal
-Aplicação de chat
