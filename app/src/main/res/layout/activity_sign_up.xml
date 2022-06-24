@@ -28,7 +28,7 @@
         android:background="@drawable/edt_backgroud"
         android:hint="Email"
         android:importantForAutofill="no"
-        android:inputType="none"
+        android:inputType="text"
         android:paddingLeft="13dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/edt_name" />
